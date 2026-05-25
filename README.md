@@ -77,7 +77,9 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wqj6h4q5xxxx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view)
+<img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="400"/>
+
+### 🎵 510 — Sorry
 
 </div>
 
