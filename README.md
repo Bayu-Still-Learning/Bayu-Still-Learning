@@ -62,28 +62,6 @@
 </div>
 
 ---
-# ✨ Legendary Quote
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=Gua+yang+ganteng+aja+rajin+belajar...;masa+kalian+yang+jelek+pemalas...;macam+cerah+kali+masa+depanmu+bjg.;-+Bayu+Aditya+Tarigan+🔥" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MOTIVATION-100%25-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STATUS-RAJIN_BELAJAR-00FFFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FUTURE-CERAH-red?style=for-the-badge"/>
-
-</div>
-
-
----
 # ✨ Random Dev Quote
 
 <div align="center">
