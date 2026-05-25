@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R2NzQ3NWd2cXBrOGQ0ODI4djBlbGR3N2Q3MXQ5eHk2MW54c3J0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 
-# Hi there 👋 I'm Bayu Aditya Tarigan
+# Hallo, Saya Bayu Aditya Tarigan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Informatics+Student;Learning+C%2B%2B+and+Web+Development;Future+Software+Engineer;Welcome+to+my+Github!&center=true&width=600&height=50)](https://git.io/typing-svg)
 
