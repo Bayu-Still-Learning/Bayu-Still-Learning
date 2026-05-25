@@ -67,7 +67,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Gua+yang+ganteng+aja+rajin+belajar%2C+masa+kalian+yang+jelek+pemalas;macam+cerah+kali+masa+depanmu+bjg;+-+Bayu+Aditya+Tarigan" />
 
 </div>
 
