@@ -1,38 +1,92 @@
-# Hi there 👋
+<div align="center">
 
-## About Me
-- 🎓 Informatics Student
-- 💻 Learning Programming
-- 🚀 Currently learning C++, Python, and Web Development
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R2NzQ3NWd2cXBrOGQ0ODI4djBlbGR3N2Q3MXQ5eHk2MW54c3J0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+
+# Hi there 👋 I'm Bayu
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Informatics+Student;Learning+C%2B%2B+and+Web+Development;Future+Software+Engineer;Welcome+to+my+Github!&center=true&width=600&height=50)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Bayu-Still-Learning&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
-## 🌐 Socials
+# 🚀 About Me
+
+- 🎓 Informatics Student
+- 💻 Currently learning Web Development
+- 🔥 Interested in AI, Competitive Programming, and UI Design
+- ⚡ Fun fact: I debug more than I code
+
+---
+
+# 🌐 Socials
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 ---
 
 # 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vscode,github,git" />
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Bayu-Still-Learning&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bayu-Still-Learning&theme=tokyonight&hide_border=false)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bayu-Still-Learning&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Still-Learning&theme=tokyonight&hide_border=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Still-Learning&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayu-Still-Learning&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wqj6h4q5xxxx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Thanks for visiting my profile 🔥
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+
+</div>
