@@ -82,6 +82,25 @@
 ### 🎵 510 — Sorry
 
 </div>
+---
+
+# 🎵 Music Player
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB954&center=true&vCenter=true&width=700&lines=▶+Now+Playing...;🎵+510+-+Sorry;───────────────⚪──────;02:14+%2F+03:45" />
+
+<br>
+
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
+
+
 
 ---
 
