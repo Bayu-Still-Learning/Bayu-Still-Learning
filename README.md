@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e24&secondaryColor=f7df1e&height=280&section=header&text=JAVASCRIPT%20%20%20%20DART&fontSize=55&fontColor=00f0ff&animation=twinkling&theme=default" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e24&secondaryColor=3776AB&height=280&section=header&text=PYTHON%20%20%20%20DEVELOPER&fontSize=55&fontColor=FFD43B&animation=twinkling&theme=default" width="100%" />
 
 <br/>
 
 # Hallo, Saya Bayu Aditya Tarigan 👋
 ### 🎓 Informatics Student @ ITERA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00f0ff&center=true&vCenter=true&width=500&lines=Currently+learning+Web+Dev;Building+Album+Art+Canvas+..+🎵;Integrating+Spotify+API;I+debug+more+than+I+code+🛠️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD43B&center=true&vCenter=true&width=500&lines=Currently+learning+Python;Web+Development+Explorer;Building+Cool+Projects;I+debug+more+than+I+code+🛠️" alt="Typing SVG" />
 
 <br/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Still-Learning&color=blue)
 
