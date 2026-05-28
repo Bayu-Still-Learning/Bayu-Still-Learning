@@ -133,7 +133,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0030&color=B026FF)](https://linkedin.com/in/Bayu-Still-Learning)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1a0030&color=B026FF)](https://twitter.com/Bayu-Still-Learning)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1a0030&color=B026FF)](https://instagram.com/Bayu-Still-Learning)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1a0030&color=B026FF)](https://instagram.com/Bayuqt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0030&color=B026FF)](https://YOUR_WEBSITE.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0030&color=B026FF)](mailto:YOUR_EMAIL)
 
