@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R2NzQ3NWd2cXBrOGQ0ODI4djBlbGR3N2Q3MXQ5eHk2MW54c3J0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
-
 # Hallo, Saya Bayu Aditya Tarigan
+### 🚀 Informatics Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Informatics+Student;Learning+C%2B%2B+and+Web+Development;Future+Software+Engineer;Welcome+to+my+Github!&center=true&width=600&height=50)](https://git.io/typing-svg)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<img src="https://komarev.com/ghpvc/?username=Bayu-Still-Learning&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://vibe-coding-assets.s3.amazonaws.com/javascript_banner.gif" alt="JavaScript Banner" width="100%" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Still-Learning&color=blue)
 
 </div>
 
