@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hallo, Saya Bayu Aditya Tarigan
-### 🚀 Informatics Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f7df1e&height=280&section=header&text=JAVASCRIPT%20%20%20%20DART&fontSize=55&fontColor=1e1e24&animation=twinkling&theme=default" width="100%" />
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br/>
 
-<img src="https://vibe-coding-assets.s3.amazonaws.com/javascript_banner.gif" alt="JavaScript Banner" width="100%" />
+# Hallo, Saya Bayu Aditya Tarigan 👋
+### 🎓 Informatics Student @ ITERA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Currently+learning+Web+Dev;Building+Album+Art+Canvas+..+🎵;Integrating+Spotify+API;I+debug+more+than+I+code+🛠️" alt="Typing SVG" />
 
 <br/>
 
