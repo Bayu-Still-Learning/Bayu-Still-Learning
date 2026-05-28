@@ -20,7 +20,7 @@
 ╔══════════════════════════════════════════════════════╗
 ║           ★  PLAYER STATUS  ★                       ║
 ║  ┌─────────────────────────────────────────────┐    ║
-║  │  Name    : YOUR NAME                        │    ║
+║  │  Name    : Bayu Aditya TARIGAN              │    ║
 ║  │  Class   : Beast King / Full-Stack Dev      │    ║
 ║  │  Guild   : Open Source Alliance             │    ║
 ║  │  Level   : ████████████░░░░  LVL 87         │    ║
