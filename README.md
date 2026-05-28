@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=40&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&height=100&lines=SOLO+LEVELING+SYSTEM;BEAST+KING+AWAKENED;ARISE...)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Solo%20Leveling%20System&fontAlign=50&fontAlignY=50&color=0:1a0030,100:0d001a&fontColor=B026FF&fontSize=40&stroke=B026FF&strokeWidth=2&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=BAYU%20ADITYA%20TARIGAN&fontAlign=50&fontAlignY=50&color=0:1a0030,100:0d001a&fontColor=B026FF&fontSize=40&stroke=B026FF&strokeWidth=2&animation=fadeIn" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 ╔══════════════════════════════════════════════════════╗
 ║           ★  PLAYER STATUS  ★                       ║
 ║  ┌─────────────────────────────────────────────┐    ║
-║  │  Name    : Bayu Aditya TARIGAN              │    ║
+║  │  Name    : Bayu Aditya Tarigan              │    ║
 ║  │  Class   : Beast King / Full-Stack Dev      │    ║
 ║  │  Guild   : Open Source Alliance             │    ║
 ║  │  Level   : ████████████░░░░  LVL 87         │    ║
