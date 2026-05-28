@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f7df1e&height=280&section=header&text=JAVASCRIPT%20%20%20%20DART&fontSize=55&fontColor=1e1e24&animation=twinkling&theme=default" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e24&secondaryColor=f7df1e&height=280&section=header&text=JAVASCRIPT%20%20%20%20DART&fontSize=55&fontColor=00f0ff&animation=twinkling&theme=default" width="100%" />
 
 <br/>
 
 # Hallo, Saya Bayu Aditya Tarigan 👋
 ### 🎓 Informatics Student @ ITERA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Currently+learning+Web+Dev;Building+Album+Art+Canvas+..+🎵;Integrating+Spotify+API;I+debug+more+than+I+code+🛠️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00f0ff&center=true&vCenter=true&width=500&lines=Currently+learning+Web+Dev;Building+Album+Art+Canvas+..+🎵;Integrating+Spotify+API;I+debug+more+than+I+code+🛠️" alt="Typing SVG" />
 
 <br/>
 
