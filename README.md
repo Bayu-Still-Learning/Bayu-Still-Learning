@@ -6,7 +6,7 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Hunters%20Visited&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bayu-Still-Learning&label=Hunters%20Visited&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -53,9 +53,9 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0d001a&title_color=B026FF&icon_color=B026FF&text_color=e0aaff&border_color=B026FF&border_radius=10&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=0d001a&title_color=B026FF&text_color=e0aaff&border_color=B026FF&border_radius=10&langs_count=6"/>
+<a href="https://github.com/Bayu-Still-Learning">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bayu-Still-Learning&show_icons=true&theme=radical&bg_color=0d001a&title_color=B026FF&icon_color=B026FF&text_color=e0aaff&border_color=B026FF&border_radius=10&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Still-Learning&layout=compact&theme=radical&bg_color=0d001a&title_color=B026FF&text_color=e0aaff&border_color=B026FF&border_radius=10&langs_count=6"/>
 </a>
 
 </div>
@@ -63,7 +63,7 @@
 <div align="center">
 
 <a href="https://github.com/Bayu-Still-Learning">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&background=0d001a&ring=B026FF&fire=ff6bff&currStreakLabel=B026FF&border=B026FF&currStreakNum=e0aaff&sideLabels=e0aaff&sideNums=e0aaff&dates=7d4e9e&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bayu-Still-Learning&theme=radical&background=0d001a&ring=B026FF&fire=ff6bff&currStreakLabel=B026FF&border=B026FF&currStreakNum=e0aaff&sideLabels=e0aaff&sideNums=e0aaff&dates=7d4e9e&border_radius=10" />
 </a>
 
 </div>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d001a&color=B026FF&line=9d00ff&point=ff6bff&area=true&hide_border=false&border_color=B026FF&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bayu-Still-Learning&bg_color=0d001a&color=B026FF&line=9d00ff&point=ff6bff&area=true&hide_border=false&border_color=B026FF&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
+![](https://github-profile-trophy.vercel.app/?username=Bayu-Still-Learning&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
 
 </div>
 
@@ -131,9 +131,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0030&color=B026FF)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1a0030&color=B026FF)](https://twitter.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1a0030&color=B026FF)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0030&color=B026FF)](https://linkedin.com/in/Bayu-Still-Learning)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1a0030&color=B026FF)](https://twitter.com/Bayu-Still-Learning)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1a0030&color=B026FF)](https://instagram.com/Bayu-Still-Learning)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0030&color=B026FF)](https://YOUR_WEBSITE.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0030&color=B026FF)](mailto:YOUR_EMAIL)
 
