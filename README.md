@@ -18,13 +18,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║           ★  PLAYER STATUS  ★                       ║
-║  ┌─────────────────────────────────────────────┐    ║
-║  │  Name    : Bayu Aditya Tarigan              │    ║
-║  │  Class   : Pria Softboy / Full-Stack Dev      │    ║
-║  │  Guild   : Open Source Alliance             │    ║
-║  │  Level   : ████████████░░░░  LVL 87         │    ║
-║  └─────────────────────────────────────────────┘    ║
+║           ★  PLAYER STATUS  ★                                ║
+║  ┌─────────────────────────────────────────────┐     ║
+║  │  Name    : Bayu Aditya Tarigan                      │    ║
+║  │  Class   : Pria Softboy / Full-Stack Dev            │   ║
+║  │  Guild   : Open Source Alliance                     │    ║
+║  │  Level   : ████████████░░░░  LVL 87              │     ║
+║  └─────────────────────────────────────────────┘      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -164,7 +164,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:0d001a&height=120&section=footer&text=ARISE...&fontColor=e0aaff&fontSize=30&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:0d001a&height=120&section=footer&text=BAYUQT...&fontColor=e0aaff&fontSize=30&fontAlignY=70&animation=fadeIn" />
 
 **⚔️ "GOD'S CHILD" ⚔️**
 
