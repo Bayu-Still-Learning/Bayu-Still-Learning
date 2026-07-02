@@ -21,7 +21,7 @@
 ║           ★  PLAYER STATUS  ★                       ║
 ║  ┌─────────────────────────────────────────────┐    ║
 ║  │  Name    : Bayu Aditya Tarigan              │    ║
-║  │  Class   : Beast King / Full-Stack Dev      │    ║
+║  │  Class   : Pria Softboy / Full-Stack Dev      │    ║
 ║  │  Guild   : Open Source Alliance             │    ║
 ║  │  Level   : ████████████░░░░  LVL 87         │    ║
 ║  └─────────────────────────────────────────────┘    ║
@@ -166,8 +166,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:0d001a&height=120&section=footer&text=ARISE...&fontColor=e0aaff&fontSize=30&fontAlignY=70&animation=fadeIn" />
 
-**⚔️ "I alone level up." ⚔️**
+**⚔️ "GOD'S CHILD" ⚔️**
 
-*Updated every day by the System*
+
 
 </div>
