@@ -16,19 +16,22 @@
 
 ### ⚔️ RANK: S-CLASS HUNTER ⚔️
 
-```
+```text
 ╔══════════════════════════════════════════════════════╗
-║           ★  PLAYER STATUS  ★                       ║
-║  ┌─────────────────────────────────────────────┐     ║
-║  │  Name    : Bayu Aditya Tarigan                    │ ║
-║  │  Class   : Pria Softboy / Full-Stack Dev          │   ║
-║  │  Guild   : Open Source Alliance                   │    ║
-║  │  Level   : ████████████░░░░  LVL 87               │     ║
-║  └─────────────────────────────────────────────┘     ║
+║                 ★ PLAYER STATUS ★                   ║
+║                                                      ║
+║  ┌────────────────────────────────────────────────┐  ║
+║  │  Name    : Bayu Aditya Tarigan                │  ║
+║  │  Class   : Pria Softboy / Full-Stack Dev      │  ║
+║  │  Guild   : Open Source Alliance               │  ║
+║  │  Level   : ████████████░░░░  LVL 87           │  ║
+║  └────────────────────────────────────────────────┘  ║
+║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
+
 
 ---
 
