@@ -18,13 +18,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║           ★  PLAYER STATUS  ★                                ║
+║           ★  PLAYER STATUS  ★                       ║
 ║  ┌─────────────────────────────────────────────┐     ║
-║  │  Name    : Bayu Aditya Tarigan                      │    ║
-║  │  Class   : Pria Softboy / Full-Stack Dev            │   ║
-║  │  Guild   : Open Source Alliance                     │    ║
-║  │  Level   : ████████████░░░░  LVL 87              │     ║
-║  └─────────────────────────────────────────────┘      ║
+║  │  Name    : Bayu Aditya Tarigan                    │ ║
+║  │  Class   : Pria Softboy / Full-Stack Dev          │   ║
+║  │  Guild   : Open Source Alliance                   │    ║
+║  │  Level   : ████████████░░░░  LVL 87               │     ║
+║  └─────────────────────────────────────────────┘     ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
